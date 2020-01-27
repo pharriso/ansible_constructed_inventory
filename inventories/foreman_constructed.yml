@@ -1,5 +1,7 @@
 plugin: constructed
 strict: False
+compose:
+     ansible_host: foreman_ip
 keyed_groups:
   -  prefix: ""
      separator: ""
