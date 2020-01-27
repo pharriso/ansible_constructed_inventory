@@ -1,0 +1,2 @@
+plugin: foreman
+validate_certs: False
